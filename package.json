@@ -1,0 +1,30 @@
+{
+  "name": "randwilio",
+  "version": "0.1.0",
+  "description": "Chat with random people via SMS",
+  "main": "app.coffee",
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "express": "^4.9.5",
+    "twilio": "^1.7.0",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gberger/randwilio.git"
+  },
+  "keywords": [
+    "sms",
+    "chat"
+  ],
+  "author": "Guilherme Berger <guilherme.berger@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gberger/randwilio/issues"
+  },
+  "homepage": "https://github.com/gberger/randwilio"
+}
